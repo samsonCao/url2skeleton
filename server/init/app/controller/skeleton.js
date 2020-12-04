@@ -1,7 +1,7 @@
 'use strict';
 
 const Controller = require('egg').Controller;
-const getSkeleton = require('auto-skeleton');
+const getSkeleton = require('../../../../../auto-skeleton');
 const initOptions = {
   pageName: 'mySkeletonPage',
   pageUrl: '',
