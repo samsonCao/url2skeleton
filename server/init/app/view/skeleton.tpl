@@ -3,7 +3,7 @@
     <title>根据url自动生成骨架屏</title>
     <style>
       input {
-        width: 200px;
+        width: 300px;
         height: 40px;
       }
       button {
@@ -32,7 +32,7 @@
     <div>
       <div class="left">
         <form>
-          <input id="input"  type="text" placeholder="请输入你的姓名"/>
+          <input id="input"  type="text" placeholder="请输入要生成骨架屏的链接"/>
         </form>
         <button id="btn">测试</button>
       </div>
