@@ -1,0 +1,22 @@
+/.vscode
+.vscode-upload.json
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+package-lock.json
+*bak
+.vscode
+
+# visual studio code
+.history
+*.log
+logs
+
+node_modules/
+report_*.xml

@@ -1,0 +1,60 @@
+2020-12-05 10:01:54,699 INFO 37821 [egg-logrotator] app logger reload: got log-reload message
+2020-12-05 10:47:45,355 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-05 10:47:45,358 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 11:20:30,886 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 11:33:36,311 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 13:23:18,718 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 14:29:21,565 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-05 14:29:21,566 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 14:54:49,582 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 16:42:45,675 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 18:30:59,718 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 18:41:34,659 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 18:43:33,270 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 19:01:48,301 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 19:56:20,318 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 20:09:38,077 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 21:11:43,973 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 23:27:40,820 INFO 37821 [-/127.0.0.1/-/19ms SCHEDULE /__schedule?path=/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/yx/0_b2xfq53jl5_xxfp07bybk40000gn/T/egg-multipart-tmp/skeleton-server"
+2020-12-05 23:27:40,829 INFO 37821 [-/127.0.0.1/-/34ms SCHEDULE /__schedule?path=/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-12-06 00:15:26,515 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-06 00:15:26,515 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 01:40:42,520 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 01:50:42,430 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 05:29:39,364 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 05:39:37,292 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 08:37:32,714 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-06 08:37:32,716 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 08:58:12,602 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 10:08:23,618 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 10:29:03,157 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 11:07:46,662 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 11:19:21,213 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 15:32:46,039 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 16:52:34,860 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 17:05:33,869 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-06 17:05:33,869 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 19:29:07,792 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 19:40:07,591 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 19:55:02,005 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-06 19:55:02,005 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 20:20:03,245 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 21:01:44,238 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-06 21:01:55,193 INFO 37821 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/yx/0_b2xfq53jl5_xxfp07bybk40000gn/T/egg-multipart-tmp/skeleton-server"
+2020-12-06 21:01:55,200 INFO 37821 [-/127.0.0.1/-/8ms SCHEDULE /__schedule?path=/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-12-06 21:32:25,521 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-06 21:32:25,522 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 09:13:17,781 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-07 09:13:17,783 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 09:46:35,665 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 11:28:12,801 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 11:29:25,376 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 11:32:30,322 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 12:37:04,008 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 13:45:52,048 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 14:38:33,386 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-07 14:38:33,387 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 14:41:41,800 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-07 16:13:18,098 INFO 37821 [egg-logrotator] clean all log before 31 days
+2020-12-07 16:13:19,064 INFO 37821 [egg-logrotator] broadcast log-reload
+2020-12-07 16:13:19,066 INFO 37821 [egg-logrotator] rotate files success by DayRotator, files ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/common-error.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/common-error.log.2020-12-06","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/skeleton-server-web.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/skeleton-server-web.log.2020-12-06","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-web.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-web.log.2020-12-06","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-schedule.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-schedule.log.2020-12-06","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-agent.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-agent.log.2020-12-06"]

@@ -1,0 +1,227 @@
+2020-12-04 11:44:13,119 INFO 22674 [egg-logrotator] app logger reload: got log-reload message
+2020-12-04 15:54:57,507 INFO 29626 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 15:54:57,551 INFO 29626 [egg-multipart] stream mode enable
+2020-12-04 15:54:57,749 INFO 29626 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 15:54:57,755 INFO 29626 [egg-security] use methodnoallow middleware
+2020-12-04 15:54:57,757 INFO 29626 [egg-security] use noopen middleware
+2020-12-04 15:54:57,760 INFO 29626 [egg-security] use nosniff middleware
+2020-12-04 15:54:57,762 INFO 29626 [egg-security] use xssProtection middleware
+2020-12-04 15:54:57,763 INFO 29626 [egg-security] use xframe middleware
+2020-12-04 15:54:57,764 INFO 29626 [egg-security] use dta middleware
+2020-12-04 15:54:57,764 INFO 29626 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 15:54:58,556 INFO 29626 [egg:core] dump config after load, 15ms
+2020-12-04 15:54:58,571 INFO 29626 [egg-watcher:application] watcher start success
+2020-12-04 15:54:58,581 INFO 29626 [egg:core] dump config after ready, 8ms
+2020-12-04 15:54:58,655 INFO 29635 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 15:54:58,690 INFO 29635 [egg-multipart] stream mode enable
+2020-12-04 15:54:58,906 INFO 29635 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 15:54:58,910 INFO 29635 [egg-security] use methodnoallow middleware
+2020-12-04 15:54:58,912 INFO 29635 [egg-security] use noopen middleware
+2020-12-04 15:54:58,915 INFO 29635 [egg-security] use nosniff middleware
+2020-12-04 15:54:58,916 INFO 29635 [egg-security] use xssProtection middleware
+2020-12-04 15:54:58,918 INFO 29635 [egg-security] use xframe middleware
+2020-12-04 15:54:58,919 INFO 29635 [egg-security] use dta middleware
+2020-12-04 15:54:58,919 INFO 29635 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 15:54:59,487 INFO 29635 [egg:core] dump config after load, 8ms
+2020-12-04 15:54:59,512 INFO 29635 [egg-watcher:application] watcher start success
+2020-12-04 15:54:59,522 INFO 29635 [egg:core] dump config after ready, 7ms
+2020-12-04 15:58:54,349 INFO 29835 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 15:58:54,380 INFO 29835 [egg-multipart] stream mode enable
+2020-12-04 15:58:54,614 INFO 29835 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 15:58:54,618 INFO 29835 [egg-security] use methodnoallow middleware
+2020-12-04 15:58:54,619 INFO 29835 [egg-security] use noopen middleware
+2020-12-04 15:58:54,622 INFO 29835 [egg-security] use nosniff middleware
+2020-12-04 15:58:54,624 INFO 29835 [egg-security] use xssProtection middleware
+2020-12-04 15:58:54,626 INFO 29835 [egg-security] use xframe middleware
+2020-12-04 15:58:54,627 INFO 29835 [egg-security] use dta middleware
+2020-12-04 15:58:54,628 INFO 29835 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 15:58:55,451 INFO 29835 [egg:core] dump config after load, 16ms
+2020-12-04 15:58:55,467 INFO 29835 [egg-watcher:application] watcher start success
+2020-12-04 15:58:55,476 INFO 29835 [egg:core] dump config after ready, 6ms
+2020-12-04 16:04:52,314 INFO 29835 [egg-view-nunjucks] loading templates from ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/view"]
+2020-12-04 16:11:14,228 INFO 30349 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 16:11:14,269 INFO 30349 [egg-multipart] stream mode enable
+2020-12-04 16:11:14,486 INFO 30349 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 16:11:14,490 INFO 30349 [egg-security] use methodnoallow middleware
+2020-12-04 16:11:14,492 INFO 30349 [egg-security] use noopen middleware
+2020-12-04 16:11:14,494 INFO 30349 [egg-security] use nosniff middleware
+2020-12-04 16:11:14,495 INFO 30349 [egg-security] use xssProtection middleware
+2020-12-04 16:11:14,496 INFO 30349 [egg-security] use xframe middleware
+2020-12-04 16:11:14,497 INFO 30349 [egg-security] use dta middleware
+2020-12-04 16:11:14,497 INFO 30349 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 16:11:15,109 INFO 30349 [egg:core] dump config after load, 9ms
+2020-12-04 16:11:15,128 INFO 30349 [egg-watcher:application] watcher start success
+2020-12-04 16:11:15,135 INFO 30349 [egg:core] dump config after ready, 5ms
+2020-12-04 16:11:18,441 INFO 30349 [egg-view-nunjucks] loading templates from ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/view"]
+2020-12-04 16:44:48,955 INFO 31597 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 16:44:48,992 INFO 31597 [egg-multipart] stream mode enable
+2020-12-04 16:44:49,172 INFO 31597 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 16:44:49,177 INFO 31597 [egg-security] use methodnoallow middleware
+2020-12-04 16:44:49,178 INFO 31597 [egg-security] use noopen middleware
+2020-12-04 16:44:49,180 INFO 31597 [egg-security] use nosniff middleware
+2020-12-04 16:44:49,181 INFO 31597 [egg-security] use xssProtection middleware
+2020-12-04 16:44:49,182 INFO 31597 [egg-security] use xframe middleware
+2020-12-04 16:44:49,183 INFO 31597 [egg-security] use dta middleware
+2020-12-04 16:44:49,183 INFO 31597 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 16:44:49,961 INFO 31597 [egg:core] dump config after load, 16ms
+2020-12-04 16:44:49,976 INFO 31597 [egg-watcher:application] watcher start success
+2020-12-04 16:44:49,987 INFO 31597 [egg:core] dump config after ready, 8ms
+2020-12-04 16:44:52,889 INFO 31598 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 16:44:52,951 INFO 31598 [egg-multipart] stream mode enable
+2020-12-04 16:44:53,283 INFO 31598 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 16:44:53,290 INFO 31598 [egg-security] use methodnoallow middleware
+2020-12-04 16:44:53,291 INFO 31598 [egg-security] use noopen middleware
+2020-12-04 16:44:53,293 INFO 31598 [egg-security] use nosniff middleware
+2020-12-04 16:44:53,294 INFO 31598 [egg-security] use xssProtection middleware
+2020-12-04 16:44:53,296 INFO 31598 [egg-security] use xframe middleware
+2020-12-04 16:44:53,297 INFO 31598 [egg-security] use dta middleware
+2020-12-04 16:44:53,297 INFO 31598 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 16:44:54,232 INFO 31598 [egg:core] dump config after load, 23ms
+2020-12-04 16:44:54,260 INFO 31598 [egg-watcher:application] watcher start success
+2020-12-04 16:44:53,455 INFO 31599 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 16:44:53,518 INFO 31599 [egg-multipart] stream mode enable
+2020-12-04 16:44:53,735 INFO 31599 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 16:44:53,740 INFO 31599 [egg-security] use methodnoallow middleware
+2020-12-04 16:44:53,742 INFO 31599 [egg-security] use noopen middleware
+2020-12-04 16:44:53,746 INFO 31599 [egg-security] use nosniff middleware
+2020-12-04 16:44:53,748 INFO 31599 [egg-security] use xssProtection middleware
+2020-12-04 16:44:53,750 INFO 31599 [egg-security] use xframe middleware
+2020-12-04 16:44:53,753 INFO 31599 [egg-security] use dta middleware
+2020-12-04 16:44:53,753 INFO 31599 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 16:44:54,662 INFO 31599 [egg:core] dump config after load, 20ms
+2020-12-04 16:44:54,690 INFO 31599 [egg-watcher:application] watcher start success
+2020-12-04 16:44:54,706 INFO 31599 [egg:core] dump config after ready, 13ms
+2020-12-04 16:44:56,931 INFO 31612 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 16:44:56,965 INFO 31612 [egg-multipart] stream mode enable
+2020-12-04 16:44:57,115 INFO 31612 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 16:44:57,122 INFO 31612 [egg-security] use methodnoallow middleware
+2020-12-04 16:44:57,124 INFO 31612 [egg-security] use noopen middleware
+2020-12-04 16:44:57,127 INFO 31612 [egg-security] use nosniff middleware
+2020-12-04 16:44:57,129 INFO 31612 [egg-security] use xssProtection middleware
+2020-12-04 16:44:57,131 INFO 31612 [egg-security] use xframe middleware
+2020-12-04 16:44:57,132 INFO 31612 [egg-security] use dta middleware
+2020-12-04 16:44:57,132 INFO 31612 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 16:44:57,884 INFO 31612 [egg:core] dump config after load, 14ms
+2020-12-04 16:44:57,919 INFO 31612 [egg-watcher:application] watcher start success
+2020-12-04 16:44:57,933 INFO 31612 [egg:core] dump config after ready, 10ms
+2020-12-04 16:44:58,520 INFO 31612 [egg-view-nunjucks] loading templates from ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/view"]
+2020-12-04 18:09:47,013 INFO 35270 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:09:47,048 INFO 35270 [egg-multipart] stream mode enable
+2020-12-04 18:09:47,327 INFO 35270 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:09:47,333 INFO 35270 [egg-security] use methodnoallow middleware
+2020-12-04 18:09:47,335 INFO 35270 [egg-security] use noopen middleware
+2020-12-04 18:09:47,343 INFO 35270 [egg-security] use nosniff middleware
+2020-12-04 18:09:47,345 INFO 35270 [egg-security] use xssProtection middleware
+2020-12-04 18:09:47,349 INFO 35270 [egg-security] use xframe middleware
+2020-12-04 18:09:47,355 INFO 35270 [egg-security] use dta middleware
+2020-12-04 18:09:47,355 INFO 35270 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:09:48,413 INFO 35270 [egg:core] dump config after load, 8ms
+2020-12-04 18:09:48,439 INFO 35270 [egg-watcher:application] watcher start success
+2020-12-04 18:09:48,452 INFO 35270 [egg:core] dump config after ready, 9ms
+2020-12-04 18:11:18,159 INFO 35395 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:11:18,210 INFO 35395 [egg-multipart] stream mode enable
+2020-12-04 18:11:18,513 INFO 35395 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:11:18,520 INFO 35395 [egg-security] use methodnoallow middleware
+2020-12-04 18:11:18,522 INFO 35395 [egg-security] use noopen middleware
+2020-12-04 18:11:18,525 INFO 35395 [egg-security] use nosniff middleware
+2020-12-04 18:11:18,527 INFO 35395 [egg-security] use xssProtection middleware
+2020-12-04 18:11:18,530 INFO 35395 [egg-security] use xframe middleware
+2020-12-04 18:11:18,533 INFO 35395 [egg-security] use dta middleware
+2020-12-04 18:11:18,533 INFO 35395 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:11:19,462 INFO 35395 [egg:core] dump config after load, 20ms
+2020-12-04 18:11:19,488 INFO 35395 [egg-watcher:application] watcher start success
+2020-12-04 18:11:19,500 INFO 35395 [egg:core] dump config after ready, 10ms
+2020-12-04 18:15:16,078 INFO 35762 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:15:16,114 INFO 35762 [egg-multipart] stream mode enable
+2020-12-04 18:15:16,291 INFO 35762 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:15:16,296 INFO 35762 [egg-security] use methodnoallow middleware
+2020-12-04 18:15:16,297 INFO 35762 [egg-security] use noopen middleware
+2020-12-04 18:15:16,299 INFO 35762 [egg-security] use nosniff middleware
+2020-12-04 18:15:16,301 INFO 35762 [egg-security] use xssProtection middleware
+2020-12-04 18:15:16,302 INFO 35762 [egg-security] use xframe middleware
+2020-12-04 18:15:16,303 INFO 35762 [egg-security] use dta middleware
+2020-12-04 18:15:16,303 INFO 35762 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:15:16,949 INFO 35762 [egg:core] dump config after load, 11ms
+2020-12-04 18:15:16,974 INFO 35762 [egg-watcher:application] watcher start success
+2020-12-04 18:15:16,985 INFO 35762 [egg:core] dump config after ready, 9ms
+2020-12-04 18:19:44,012 INFO 36109 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:19:44,044 INFO 36109 [egg-multipart] stream mode enable
+2020-12-04 18:19:44,193 INFO 36109 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:19:44,196 INFO 36109 [egg-security] use methodnoallow middleware
+2020-12-04 18:19:44,197 INFO 36109 [egg-security] use noopen middleware
+2020-12-04 18:19:44,198 INFO 36109 [egg-security] use nosniff middleware
+2020-12-04 18:19:44,199 INFO 36109 [egg-security] use xssProtection middleware
+2020-12-04 18:19:44,200 INFO 36109 [egg-security] use xframe middleware
+2020-12-04 18:19:44,201 INFO 36109 [egg-security] use dta middleware
+2020-12-04 18:19:44,201 INFO 36109 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:19:44,650 INFO 36109 [egg:core] dump config after load, 7ms
+2020-12-04 18:19:44,671 INFO 36109 [egg-watcher:application] watcher start success
+2020-12-04 18:19:44,678 INFO 36109 [egg:core] dump config after ready, 5ms
+2020-12-04 18:20:42,503 INFO 36141 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:20:42,570 INFO 36141 [egg-multipart] stream mode enable
+2020-12-04 18:20:42,868 INFO 36141 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:20:42,875 INFO 36141 [egg-security] use methodnoallow middleware
+2020-12-04 18:20:42,876 INFO 36141 [egg-security] use noopen middleware
+2020-12-04 18:20:42,878 INFO 36141 [egg-security] use nosniff middleware
+2020-12-04 18:20:42,879 INFO 36141 [egg-security] use xssProtection middleware
+2020-12-04 18:20:42,881 INFO 36141 [egg-security] use xframe middleware
+2020-12-04 18:20:42,882 INFO 36141 [egg-security] use dta middleware
+2020-12-04 18:20:42,882 INFO 36141 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:20:43,397 INFO 36141 [egg:core] dump config after load, 10ms
+2020-12-04 18:20:43,420 INFO 36141 [egg-watcher:application] watcher start success
+2020-12-04 18:20:43,427 INFO 36141 [egg:core] dump config after ready, 5ms
+2020-12-04 18:35:36,872 INFO 36612 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:35:36,913 INFO 36612 [egg-multipart] stream mode enable
+2020-12-04 18:35:37,186 INFO 36612 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:35:37,191 INFO 36612 [egg-security] use methodnoallow middleware
+2020-12-04 18:35:37,193 INFO 36612 [egg-security] use noopen middleware
+2020-12-04 18:35:37,196 INFO 36612 [egg-security] use nosniff middleware
+2020-12-04 18:35:37,198 INFO 36612 [egg-security] use xssProtection middleware
+2020-12-04 18:35:37,199 INFO 36612 [egg-security] use xframe middleware
+2020-12-04 18:35:37,200 INFO 36612 [egg-security] use dta middleware
+2020-12-04 18:35:37,200 INFO 36612 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:35:37,999 INFO 36612 [egg:core] dump config after load, 15ms
+2020-12-04 18:35:38,012 INFO 36612 [egg-watcher:application] watcher start success
+2020-12-04 18:35:38,020 INFO 36612 [egg:core] dump config after ready, 6ms
+2020-12-04 18:35:57,914 INFO 36649 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 18:35:57,950 INFO 36649 [egg-multipart] stream mode enable
+2020-12-04 18:35:58,101 INFO 36649 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 18:35:58,105 INFO 36649 [egg-security] use methodnoallow middleware
+2020-12-04 18:35:58,106 INFO 36649 [egg-security] use noopen middleware
+2020-12-04 18:35:58,107 INFO 36649 [egg-security] use nosniff middleware
+2020-12-04 18:35:58,108 INFO 36649 [egg-security] use xssProtection middleware
+2020-12-04 18:35:58,109 INFO 36649 [egg-security] use xframe middleware
+2020-12-04 18:35:58,110 INFO 36649 [egg-security] use dta middleware
+2020-12-04 18:35:58,110 INFO 36649 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 18:35:58,624 INFO 36649 [egg:core] dump config after load, 11ms
+2020-12-04 18:35:58,653 INFO 36649 [egg-watcher:application] watcher start success
+2020-12-04 18:35:58,665 INFO 36649 [egg:core] dump config after ready, 9ms
+2020-12-04 18:56:22,322 WARN 36649 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-04 19:05:06,189 WARN 36649 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-04 20:04:49,741 WARN 36649 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-04 20:04:49,745 WARN 36649 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-04 20:20:54,627 WARN 36649 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-04 20:23:53,597 INFO 37821 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-04 20:23:53,638 INFO 37821 [egg-multipart] stream mode enable
+2020-12-04 20:23:53,865 INFO 37821 [egg-static] starting static serve /public/ -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/public
+2020-12-04 20:23:53,870 INFO 37821 [egg-security] use methodnoallow middleware
+2020-12-04 20:23:53,873 INFO 37821 [egg-security] use noopen middleware
+2020-12-04 20:23:53,881 INFO 37821 [egg-security] use nosniff middleware
+2020-12-04 20:23:53,886 INFO 37821 [egg-security] use xssProtection middleware
+2020-12-04 20:23:53,888 INFO 37821 [egg-security] use xframe middleware
+2020-12-04 20:23:53,889 INFO 37821 [egg-security] use dta middleware
+2020-12-04 20:23:53,889 INFO 37821 [egg-security] compose 6 middlewares into one security middleware
+2020-12-04 20:23:54,547 INFO 37821 [egg:core] dump config after load, 11ms
+2020-12-04 20:23:54,569 INFO 37821 [egg-watcher:application] watcher start success
+2020-12-04 20:23:54,577 INFO 37821 [egg:core] dump config after ready, 6ms
+2020-12-04 23:07:06,318 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 08:30:08,348 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-05 08:30:08,378 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 08:46:16,423 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 09:26:16,946 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 09:30:13,790 WARN 37821 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-12-05 09:30:13,790 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 09:47:55,463 WARN 37821 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-12-05 10:01:53,742 INFO 37821 [egg-logrotator] clean all log before 31 days
+2020-12-05 10:01:54,695 INFO 37821 [egg-logrotator] broadcast log-reload
+2020-12-05 10:01:54,696 INFO 37821 [egg-logrotator] rotate files success by DayRotator, files ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/common-error.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/common-error.log.2020-12-04","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/skeleton-server-web.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/skeleton-server-web.log.2020-12-04","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-web.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-web.log.2020-12-04","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-schedule.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-schedule.log.2020-12-04","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-agent.log -> /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server/egg-agent.log.2020-12-04"]

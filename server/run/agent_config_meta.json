@@ -1,0 +1,305 @@
+{
+  "keys": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js",
+  "middleware": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js"
+    },
+    "root": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js",
+    "cache": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/config/config.default.js",
+      "type": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "name": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "version": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "description": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "private": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "auto-skeleton": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "test": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "url": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "license": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "env": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "level": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "port": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/node_modules/egg/config/config.default.js"
+}

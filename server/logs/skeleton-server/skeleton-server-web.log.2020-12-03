@@ -1,0 +1,473 @@
+2020-12-01 19:33:02,686 ERROR 18283 [-/127.0.0.1/-/10989ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.Error: Evaluation failed: TypeError: Cannot read property 'genSkeleton' of undefined
+    at __puppeteer_evaluation_script__:2:28
+    at __puppeteer_evaluation_script__:2:28
+    at ExecutionContext._evaluateInternal (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/ExecutionContext.js:122:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at ExecutionContext.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at DOMWorld.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/DOMWorld.js:112:20)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:833:43)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:45:14)
+
+pid: 18283
+hostname: caoyouzhi.local
+
+2020-12-01 19:37:35,204 ERROR 20189 [-/127.0.0.1/-/10ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.ReferenceError: autoSkeleton is not defined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:39:5)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 20189
+hostname: caoyouzhi.local
+
+2020-12-01 19:39:23,874 ERROR 20641 [-/127.0.0.1/-/7633ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.Error: Evaluation failed: TypeError: Cannot read property 'genSkeleton' of undefined
+    at __puppeteer_evaluation_script__:2:28
+    at __puppeteer_evaluation_script__:2:28
+    at ExecutionContext._evaluateInternal (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/ExecutionContext.js:122:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at ExecutionContext.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at DOMWorld.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/DOMWorld.js:112:20)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:833:43)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at Object.getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:45:14)
+
+pid: 20641
+hostname: caoyouzhi.local
+
+2020-12-01 19:43:35,876 ERROR 21793 [-/127.0.0.1/-/7787ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.Error: Evaluation failed: TypeError: Cannot read property 'genSkeleton' of undefined
+    at __puppeteer_evaluation_script__:2:28
+    at __puppeteer_evaluation_script__:2:28
+    at ExecutionContext._evaluateInternal (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/ExecutionContext.js:122:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at ExecutionContext.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at DOMWorld.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/DOMWorld.js:112:20)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:833:43)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:45:14)
+
+pid: 21793
+hostname: caoyouzhi.local
+
+2020-12-01 19:50:35,957 ERROR 23696 [-/127.0.0.1/-/6298ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.Error: Evaluation failed: TypeError: Cannot read property 'genSkeleton' of undefined
+    at __puppeteer_evaluation_script__:2:28
+    at __puppeteer_evaluation_script__:2:28
+    at ExecutionContext._evaluateInternal (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/ExecutionContext.js:122:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  -- ASYNC --
+    at ExecutionContext.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at DOMWorld.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/DOMWorld.js:112:20)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.evaluate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:833:43)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:45:14)
+
+pid: 23696
+hostname: caoyouzhi.local
+
+2020-12-01 19:53:51,781 ERROR 24609 [-/127.0.0.1/-/10651ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/skeletonTemplate/m.productForMixin.list.html'
+    at Object.openSync (fs.js:443:3)
+    at Object.writeFileSync (fs.js:1194:35)
+    at insertSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/insertSkeleton.js:92:6)
+    at getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:57:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/skeletonTemplate/m.productForMixin.list.html"
+name: "ENOENTError"
+pid: 24609
+hostname: caoyouzhi.local
+
+2020-12-01 20:01:21,968 ERROR 26371 [-/127.0.0.1/-/10965ms GET /skeleton?url=https://h5-test.baoyun18.com/m/productForMixin/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.ENOENTError: ENOENT: no such file or directory, open '/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/skeletonTemplate/m.productForMixin.list.html'
+    at Object.openSync (fs.js:443:3)
+    at Object.writeFileSync (fs.js:1194:35)
+    at insertSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/insertSkeleton.js:92:6)
+    at getSkeleton (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/getSkeleton.js:57:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/skeletonTemplate/m.productForMixin.list.html"
+name: "ENOENTError"
+pid: 26371
+hostname: caoyouzhi.local
+
+2020-12-01 20:32:38,337 ERROR 34201 [-/127.0.0.1/-/8443ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:27:32)
+
+pid: 34201
+hostname: caoyouzhi.local
+
+2020-12-01 20:42:12,819 ERROR 34358 [-/127.0.0.1/-/8877ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+
+pid: 34358
+hostname: caoyouzhi.local
+
+2020-12-01 20:42:58,076 ERROR 34358 [-/127.0.0.1/-/8195ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+
+pid: 34358
+hostname: caoyouzhi.local
+
+2020-12-01 20:44:09,198 ERROR 34358 [-/127.0.0.1/-/8105ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+
+pid: 34358
+hostname: caoyouzhi.local
+
+2020-12-01 20:46:59,834 ERROR 34358 [-/127.0.0.1/-/13955ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+
+pid: 34358
+hostname: caoyouzhi.local
+
+2020-12-01 20:48:08,806 ERROR 34358 [-/127.0.0.1/-/12842ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+
+pid: 34358
+hostname: caoyouzhi.local
+
+2020-12-01 20:48:41,700 ERROR 38395 [-/127.0.0.1/-/10176ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 38395
+hostname: caoyouzhi.local
+
+2020-12-01 20:49:22,364 ERROR 38395 [-/127.0.0.1/-/9580ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:25:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 38395
+hostname: caoyouzhi.local
+
+2020-12-01 20:49:38,387 ERROR 38605 [-/127.0.0.1/-/10043ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:26:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 38605
+hostname: caoyouzhi.local
+
+2020-12-01 20:50:10,233 ERROR 38689 [-/127.0.0.1/-/10478ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: Cannot read property 'img' of undefined
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:26:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 38689
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:25,467 ERROR 40398 [-/127.0.0.1/-/12ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:27,074 ERROR 40398 [-/127.0.0.1/-/4ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:28,593 ERROR 40398 [-/127.0.0.1/-/0ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:41,349 ERROR 40398 [-/127.0.0.1/-/1ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:42,212 ERROR 40398 [-/127.0.0.1/-/1ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:42,578 ERROR 40398 [-/127.0.0.1/-/1ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:00:42,911 ERROR 40398 [-/127.0.0.1/-/1ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 40398
+hostname: caoyouzhi.local
+
+2020-12-01 21:01:12,973 ERROR 41384 [-/127.0.0.1/-/14ms GET /skeleton?url=https://h5-test.baoyun18.com/m/order/list?uniqueId=C4Ip843YBqgB9K7OXAYmib&partner=1111&code=0] nodejs.TypeError: skeletonUrl.search.split is not a function
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:24:42)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 41384
+hostname: caoyouzhi.local
+
+2020-12-02 14:09:02,624 ERROR 91382 [-/127.0.0.1/-/13ms GET /skeleton/home] nodejs.TypeError: Cannot read property 'split' of null
+    at SkeletonController.index (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:26:36)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 91382
+hostname: caoyouzhi.local
+
+2020-12-02 16:01:18,941 WARN 22741 [-/127.0.0.1/-/64ms POST /skeleton/getImage] nodejs.SyntaxError: invalid JSON, only supports object and array, check bodyParser config
+    at parse (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_co-body@6.1.0@co-body/lib/json.js:55:13)
+    at AsyncFunction.module.exports [as json] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_co-body@6.1.0@co-body/lib/json.js:41:20)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+status: 400
+body: "url=12312"
+pid: 22741
+hostname: caoyouzhi.local
+
+2020-12-02 16:01:38,712 WARN 22741 [-/127.0.0.1/-/0ms POST /skeleton/getImage] nodejs.SyntaxError: invalid JSON, only supports object and array, check bodyParser config
+    at parse (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_co-body@6.1.0@co-body/lib/json.js:55:13)
+    at AsyncFunction.module.exports [as json] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_co-body@6.1.0@co-body/lib/json.js:41:20)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+status: 400
+body: "url=12312"
+pid: 22741
+hostname: caoyouzhi.local
+
+2020-12-02 16:02:02,430 WARN 22741 [-/127.0.0.1/-/1ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:02:02,432 WARN 22741 [-/127.0.0.1/-/2ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 22741
+hostname: caoyouzhi.local
+
+2020-12-02 16:03:45,176 WARN 22741 [-/127.0.0.1/-/1ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:03:45,177 WARN 22741 [-/127.0.0.1/-/1ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 22741
+hostname: caoyouzhi.local
+
+2020-12-02 16:06:11,528 WARN 23516 [-/127.0.0.1/-/73ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:06:11,530 WARN 23516 [-/127.0.0.1/-/75ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 23516
+hostname: caoyouzhi.local
+
+2020-12-02 16:06:17,671 WARN 24121 [-/127.0.0.1/-/74ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:06:17,673 WARN 24121 [-/127.0.0.1/-/76ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 24121
+hostname: caoyouzhi.local
+
+2020-12-02 16:06:26,043 WARN 24172 [-/127.0.0.1/-/61ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:06:26,045 WARN 24172 [-/127.0.0.1/-/62ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 24172
+hostname: caoyouzhi.local
+
+2020-12-02 16:13:32,878 WARN 25629 [-/127.0.0.1/-/57ms POST /skeleton/getImage] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-02 16:13:32,880 WARN 25629 [-/127.0.0.1/-/60ms POST /skeleton/getImage] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa@2.13.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_egg-security@2.8.0@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-session@6.1.0@koa-session/index.js:41:13)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 25629
+hostname: caoyouzhi.local
+
+2020-12-02 16:41:25,901 ERROR 32886 [-/127.0.0.1/-/8739ms POST /skeleton/getImage] nodejs.SyntaxError: Unexpected token i in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at SkeletonController.getImage (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js:42:21)
+
+pid: 32886
+hostname: caoyouzhi.local
+
+2020-12-02 16:41:59,670 ERROR 33165 [-/127.0.0.1/-/1174ms POST /skeleton/getImage] nodejs.Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+    at Promise (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Connection.js:183:56)
+    at new Promise (<anonymous>)
+    at CDPSession.send (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Connection.js:182:12)
+    at navigate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:118:39)
+    at FrameManager.navigateFrame (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:95:7)
+    at Frame.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:406:37)
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at Page.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:674:49)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at openPage (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/openPage.js:41:14)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:674:49)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at openPage (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/openPage.js:41:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "Protocol error (Page.navigate): Cannot navigate to invalid URL"
+pid: 33165
+hostname: caoyouzhi.local
+
+2020-12-02 16:42:05,111 ERROR 33201 [-/127.0.0.1/-/1042ms POST /skeleton/getImage] nodejs.Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+    at Promise (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Connection.js:183:56)
+    at new Promise (<anonymous>)
+    at CDPSession.send (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Connection.js:182:12)
+    at navigate (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:118:39)
+    at FrameManager.navigateFrame (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:95:7)
+    at Frame.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/FrameManager.js:406:37)
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at Page.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:674:49)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at openPage (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/openPage.js:41:14)
+  -- ASYNC --
+    at Frame.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:111:15)
+    at Page.goto (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/Page.js:674:49)
+    at Page.<anonymous> (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/node_modules/_puppeteer@1.20.0@puppeteer/lib/helper.js:112:23)
+    at openPage (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/auto-skeleton/src/openPage.js:41:14)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "Protocol error (Page.navigate): Cannot navigate to invalid URL"
+pid: 33201
+hostname: caoyouzhi.local
+

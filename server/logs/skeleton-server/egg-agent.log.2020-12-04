@@ -1,0 +1,206 @@
+2020-12-04 11:44:13,119 INFO 21454 [egg-logrotator] agent logger reload: got log-reload message
+2020-12-04 15:54:52,423 WARN 21454 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 15:54:52,217 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1100,"blocks":8,"atimeMs":1607066709854.6113,"mtimeMs":1607068492149.8425,"ctimeMs":1607068492149.8425,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:25:09.855Z","mtime":"2020-12-04T07:54:52.150Z","ctime":"2020-12-04T07:54:52.150Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:54:53,803 WARN 21454 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 15:54:53,537 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1106,"blocks":8,"atimeMs":1607068493370.6006,"mtimeMs":1607068493525.0623,"ctimeMs":1607068493525.0623,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:54:53.371Z","mtime":"2020-12-04T07:54:53.525Z","ctime":"2020-12-04T07:54:53.525Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:54:53,597 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1106,"blocks":8,"atimeMs":1607068493370.6006,"mtimeMs":1607068493525.0623,"ctimeMs":1607068493525.0623,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:54:53.371Z","mtime":"2020-12-04T07:54:53.525Z","ctime":"2020-12-04T07:54:53.525Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:54:55,028 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1109,"blocks":8,"atimeMs":1607068494359.197,"mtimeMs":1607068495016.5657,"ctimeMs":1607068495016.5657,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:54:54.359Z","mtime":"2020-12-04T07:54:55.017Z","ctime":"2020-12-04T07:54:55.017Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:54:55,229 WARN 21454 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 15:54:56,608 WARN 21454 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 15:54:56,354 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607068495907.6128,"mtimeMs":1607068496343.3918,"ctimeMs":1607068496343.3918,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:54:55.908Z","mtime":"2020-12-04T07:54:56.343Z","ctime":"2020-12-04T07:54:56.343Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:54:56,404 INFO 21454 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607068495907.6128,"mtimeMs":1607068496343.3918,"ctimeMs":1607068496343.3918,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:54:55.908Z","mtime":"2020-12-04T07:54:56.343Z","ctime":"2020-12-04T07:54:56.343Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 15:58:52,711 INFO 29834 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 15:58:52,723 INFO 29834 [egg:core] dump config after load, 6ms
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 15:58:52,794 INFO 29834 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 15:58:52,795 INFO 29834 [egg-watcher:agent] watcher start success
+2020-12-04 15:58:52,822 INFO 29834 [egg:core] dump config after ready, 4ms
+2020-12-04 16:11:11,794 WARN 29834 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 16:11:11,591 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1097,"blocks":8,"atimeMs":1607068534568.7146,"mtimeMs":1607069471529.291,"ctimeMs":1607069471529.291,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T07:55:34.569Z","mtime":"2020-12-04T08:11:11.529Z","ctime":"2020-12-04T08:11:11.529Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:46,703 WARN 29834 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 16:44:46,498 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1109,"blocks":8,"atimeMs":1607069473221.3293,"mtimeMs":1607071486435.713,"ctimeMs":1607071486435.713,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:11:13.221Z","mtime":"2020-12-04T08:44:46.436Z","ctime":"2020-12-04T08:44:46.436Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:48,420 WARN 29834 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 16:44:48,161 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607071488147.344,"mtimeMs":1607071488149.9978,"ctimeMs":1607071488149.9978,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:48.147Z","mtime":"2020-12-04T08:44:48.150Z","ctime":"2020-12-04T08:44:48.150Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:48,219 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607071488147.344,"mtimeMs":1607071488149.9978,"ctimeMs":1607071488149.9978,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:48.147Z","mtime":"2020-12-04T08:44:48.150Z","ctime":"2020-12-04T08:44:48.150Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:50,435 WARN 29834 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 16:44:50,179 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1125,"blocks":8,"atimeMs":1607071489571.4607,"mtimeMs":1607071490172.7178,"ctimeMs":1607071490172.7178,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:49.571Z","mtime":"2020-12-04T08:44:50.173Z","ctime":"2020-12-04T08:44:50.173Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:50,230 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1125,"blocks":8,"atimeMs":1607071489571.4607,"mtimeMs":1607071490172.7178,"ctimeMs":1607071490172.7178,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:49.571Z","mtime":"2020-12-04T08:44:50.173Z","ctime":"2020-12-04T08:44:50.173Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:52,424 WARN 29834 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 16:44:52,170 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607071491722.8657,"mtimeMs":1607071492157.8088,"ctimeMs":1607071492157.8088,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:51.723Z","mtime":"2020-12-04T08:44:52.158Z","ctime":"2020-12-04T08:44:52.158Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 16:44:52,219 INFO 29834 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1112,"blocks":8,"atimeMs":1607071491722.8657,"mtimeMs":1607071492157.8088,"ctimeMs":1607071492157.8088,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T08:44:51.723Z","mtime":"2020-12-04T08:44:52.158Z","ctime":"2020-12-04T08:44:52.158Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 18:09:44,960 INFO 35265 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:09:44,971 INFO 35265 [egg:core] dump config after load, 5ms
+2020-12-04 18:09:45,024 INFO 35265 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:09:45,024 INFO 35265 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:09:45,025 INFO 35265 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:09:45,025 INFO 35265 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:09:45,025 INFO 35265 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:09:45,025 INFO 35265 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:09:45,025 INFO 35265 [egg-watcher:agent] watcher start success
+2020-12-04 18:09:45,054 INFO 35265 [egg:core] dump config after ready, 6ms
+2020-12-04 18:11:15,348 INFO 35391 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:11:15,366 INFO 35391 [egg:core] dump config after load, 9ms
+2020-12-04 18:11:15,439 INFO 35391 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:11:15,440 INFO 35391 [egg-watcher:agent] watcher start success
+2020-12-04 18:11:15,465 INFO 35391 [egg:core] dump config after ready, 9ms
+2020-12-04 18:15:14,135 INFO 35761 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:15:14,147 INFO 35761 [egg:core] dump config after load, 6ms
+2020-12-04 18:15:14,207 INFO 35761 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:15:14,207 INFO 35761 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:15:14,208 INFO 35761 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:15:14,208 INFO 35761 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:15:14,208 INFO 35761 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:15:14,208 INFO 35761 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:15:14,209 INFO 35761 [egg-watcher:agent] watcher start success
+2020-12-04 18:15:14,246 INFO 35761 [egg:core] dump config after ready, 16ms
+2020-12-04 18:19:42,480 INFO 36105 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:19:42,491 INFO 36105 [egg:core] dump config after load, 5ms
+2020-12-04 18:19:42,540 INFO 36105 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:19:42,540 INFO 36105 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:19:42,541 INFO 36105 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:19:42,541 INFO 36105 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:19:42,541 INFO 36105 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:19:42,541 INFO 36105 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:19:42,541 INFO 36105 [egg-watcher:agent] watcher start success
+2020-12-04 18:19:42,559 INFO 36105 [egg:core] dump config after ready, 6ms
+2020-12-04 18:20:39,897 INFO 36140 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:20:39,911 INFO 36140 [egg:core] dump config after load, 6ms
+2020-12-04 18:20:39,962 INFO 36140 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:20:39,962 INFO 36140 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:20:39,962 INFO 36140 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:20:39,962 INFO 36140 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:20:39,963 INFO 36140 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:20:39,963 INFO 36140 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:20:39,963 INFO 36140 [egg-watcher:agent] watcher start success
+2020-12-04 18:20:39,982 INFO 36140 [egg:core] dump config after ready, 7ms
+2020-12-04 18:35:33,887 INFO 36140 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910738931,"size":1097,"blocks":8,"atimeMs":1607077053392.2368,"mtimeMs":1607078133824.4343,"ctimeMs":1607078133824.4343,"birthtimeMs":1606817361746.857,"atime":"2020-12-04T10:17:33.392Z","mtime":"2020-12-04T10:35:33.824Z","ctime":"2020-12-04T10:35:33.824Z","birthtime":"2020-12-01T10:09:21.747Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-12-04 18:35:34,090 WARN 36140 [agent:development] reload worker because /Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app/controller/skeleton.js change
+2020-12-04 18:35:56,045 INFO 36647 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 18:35:56,059 INFO 36647 [egg:core] dump config after load, 6ms
+2020-12-04 18:35:56,117 INFO 36647 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 18:35:56,117 INFO 36647 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 18:35:56,118 INFO 36647 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 18:35:56,118 INFO 36647 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 18:35:56,118 INFO 36647 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 18:35:56,118 INFO 36647 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 18:35:56,118 INFO 36647 [egg-watcher:agent] watcher start success
+2020-12-04 18:35:56,154 INFO 36647 [egg:core] dump config after ready, 9ms
+2020-12-04 18:56:22,325 ERROR 36647 nodejs.ClusterClientNoResponseError: client no response in 342079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 36647
+hostname: caoyouzhi.local
+
+2020-12-04 19:05:06,188 ERROR 36647 nodejs.ClusterClientNoResponseError: client no response in 483833ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 36647
+hostname: caoyouzhi.local
+
+2020-12-04 20:04:49,727 ERROR 36647 nodejs.ClusterClientNoResponseError: client no response in 2463374ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 36647
+hostname: caoyouzhi.local
+
+2020-12-04 20:20:54,627 ERROR 36647 nodejs.ClusterClientNoResponseError: client no response in 944841ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 36647
+hostname: caoyouzhi.local
+
+2020-12-04 20:23:51,152 INFO 37814 [egg:logger] init all loggers with options: {"dir":"/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/logs/skeleton-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"skeleton-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-12-04 20:23:51,165 INFO 37814 [egg:core] dump config after load, 6ms
+2020-12-04 20:23:51,238 INFO 37814 [egg-watcher] Start watching: ["/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy","/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"]
+2020-12-04 20:23:51,238 INFO 37814 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app"
+2020-12-04 20:23:51,239 INFO 37814 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/config"
+2020-12-04 20:23:51,239 INFO 37814 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks"
+2020-12-04 20:23:51,239 INFO 37814 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/mocks_proxy"
+2020-12-04 20:23:51,239 INFO 37814 [egg-watcher] Start watching: "/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/app.js"
+2020-12-04 20:23:51,239 INFO 37814 [egg-watcher:agent] watcher start success
+2020-12-04 20:23:51,273 INFO 37814 [egg:core] dump config after ready, 11ms
+2020-12-04 23:07:06,319 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 708893ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
+2020-12-05 08:30:08,152 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 33761330ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
+2020-12-05 08:46:16,423 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 968027ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
+2020-12-05 09:26:16,949 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 540291ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
+2020-12-05 09:30:13,784 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 156813ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
+2020-12-05 09:47:55,457 ERROR 37814 nodejs.ClusterClientNoResponseError: client no response in 100507ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/iyb-caoyouzhi/Desktop/iyb-new-code/url2skeleton/server/init/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 37814
+hostname: caoyouzhi.local
+
